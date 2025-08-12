@@ -1,4 +1,6 @@
-## Hi there 👋 This is Namratha Kaipa
+## Hi there 👋 
+My Name is Namratha Kaipa, 
+Passionate about bridging development and operations, I thrive on creating automated, reliable, and efficient systems that bring ideas to life.
 
 
 
