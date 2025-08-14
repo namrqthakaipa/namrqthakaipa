@@ -9,7 +9,7 @@ Bringing Development 💻, Operations ⚙️, and Security 🛡️ together — 
 - ⚙️ Orchestration  
 
 ## 🔍 Current Project  
-- [**3-Tier DevSecOps Project**](https://github.com/namrqthakaipa/3Tier-DevSecOps-Project.git)  
+- [**3Tier DevSecOps Project**](https://github.com/namrqthakaipa/3Tier-DevSecOps-Project.git)  
 
 ## 🤖 Generative AI Projects  
 I’m also fascinated by **Generative AI** and have built some cool projects around it:  
