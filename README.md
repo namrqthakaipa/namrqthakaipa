@@ -1,20 +1,23 @@
-## Hi there 👋 
-My Name is Namratha Kaipa, 
-Passionate about bridging development and operations, I thrive on creating automated, reliable, and efficient systems that bring ideas to life.
+# 👋 Hey there!  
 
+I’m a tech enthusiast who loves seeing **development and operations come together with loads of security** — that’s why my heart beats for **DevSecOps** ❤️🔐.  
 
+## 🚀 My Main Focus Areas  
+- 🛡️ Security tools  
+- 🐳 Containerization  
+- ⚙️ Orchestration  
 
-<!--
-**namrqthakaipa/namrqthakaipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 Current Project  
+[**3-Tier DevSecOps Project**](https://github.com/namrqthakaipa/3Tier-DevSecOps-Project.git)  
 
-Here are some ideas to get you started:
+## 🤖 Generative AI Projects  
+I’m also fascinated by **Generative AI** and have built some cool projects around it:  
+- [Text Generation with AI Foundry](https://github.com/namrqthakaipa/text-gen-ai-foundry-.git)  
+- [Google AI Studio Text Gen](https://github.com/namrqthakaipa/google-ai-studio-text-gen.git)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎥 Fun Facts About Me  
+- I love editing videos using *DaVinci Resolve*  
+- I’m a big Carnatic music buff 🎶  
+---
+
+📌 If you like what you see, **[follow me](https://github.com/namrqthakaipa)** for more tech goodness and creative projects!
