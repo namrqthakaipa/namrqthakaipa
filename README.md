@@ -1,6 +1,7 @@
 # 👋 Hey there!  
 
-I’m a tech enthusiast who loves seeing **development and operations come together with loads of security** — that’s why my heart beats for **DevSecOps** ❤️🔐.  
+Bringing Development 💻, Operations ⚙️, and Security 🛡️ together — one project at a time — to fuel my DevSecOps journey
+
 
 ## 🚀 My Main Focus Areas  
 - 🛡️ Security tools  
