@@ -8,7 +8,7 @@ I’m a tech enthusiast who loves seeing **development and operations come toget
 - ⚙️ Orchestration  
 
 ## 🔍 Current Project  
-[**3-Tier DevSecOps Project**](https://github.com/namrqthakaipa/3Tier-DevSecOps-Project.git)  
+- [**3-Tier DevSecOps Project**](https://github.com/namrqthakaipa/3Tier-DevSecOps-Project.git)  
 
 ## 🤖 Generative AI Projects  
 I’m also fascinated by **Generative AI** and have built some cool projects around it:  
