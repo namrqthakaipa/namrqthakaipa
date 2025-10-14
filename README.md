@@ -1,5 +1,4 @@
-# 👋 Hey there!  
-
+ 
 Bringing Development 💻, Operations ⚙️, and Security 🛡️ together — one project at a time — to fuel my DevSecOps journey
 
 
