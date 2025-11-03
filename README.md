@@ -8,9 +8,11 @@ Bringing Development 💻, Operations ⚙️, and Security 🛡️ together — 
 - ⚙️ Orchestration  
 
 ## 🔍 Current Projects
+- [**FinOps dashboard**](https://github.com/namrqthakaipa/FinOps_Monitoring.git)
 - [**3Tier DevSecOps Project**](https://github.com/namrqthakaipa/3Tier-DevSecOps-Project.git)
 - [**Jenkins monitoring in Grafana**](https://github.com/namrqthakaipa/Jenkins_monitoring_in_Grafana.git)
-- [**Task Planner**](https://github.com/namrqthakaipa/Task-Planner.git) 📝💡 — A productivity-focused app for task management and intelligent prioritization  
+- [**your Scrum board**]([https://github.com/namrqthakaipa/Task-Planner.git](https://github.com/namrqthakaipa/Your-Scrum-Board.git)) 📝💡 — A productivity-focused app for task management and intelligent prioritization
+
 
 ## 🤖 Generative AI Projects
 I’m fascinated by **Generative AI** and have built some cool projects around it:  
