@@ -1,6 +1,6 @@
 # Namratha Kaipa
 
-Bringing Development 💻, Operations ⚙️, and Security 🛡️ together — one project at a time — to fuel my **DevSecOps** journey.
+Bringing Development 💻, Operations ⚙️, and Security 🛡️ together — one Automation at a time — to fuel my **DevSecOps** journey.
 
 ## 🚀 My Main Focus Areas
 - 🛡️ Security tools  
